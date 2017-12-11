@@ -1,9 +1,7 @@
 /****************|****************|***************
-Program: Othello.cpp (Project part 2)
-Course: Bachelor of Computer Science |  Year: 2015/16 Trimester 1
-Name: Mahmood Sarzil | ID: 1141126473
-Email: sarzilmahmood321@gmail.com
-Phone: 01133186679
+Program: Othello.cpp
+Mahmood Sarzil
+
 *****************|****************|***************/
 
 #include <iostream>
